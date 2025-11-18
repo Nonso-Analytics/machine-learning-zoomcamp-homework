@@ -1,0 +1,21 @@
+[project]
+name = "midterm-project"
+version = "0.1.0"
+description = "Water Potability Prediction"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.121.2",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "scikit-learn==1.7.0",
+    "uvicorn>=0.38.0",
+]
+
+
+[tool.uv]
+
+[dependency-groups]
+dev = [
+    "requests>=2.32.5",
+]

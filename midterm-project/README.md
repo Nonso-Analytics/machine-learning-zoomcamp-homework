@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Water Potability Prediction 
 
 A machine learning pipeline for predicting water potability (safety) based on quality parameters. This project demonstrates the full ML workflow from data exploration to cloud deployment.
@@ -195,8 +195,3 @@ python test.py
 
 ```
 
-
-=======
-# machine-learning-zoomcamp-homework
-This repository contains all homework from my participation in Machine Learning Zoomcamp 2025
->>>>>>> c62a52cbb7d32968108b3fe4e2624f511c9699d3
